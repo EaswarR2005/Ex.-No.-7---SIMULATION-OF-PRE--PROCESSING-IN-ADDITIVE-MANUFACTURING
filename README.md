@@ -47,8 +47,7 @@
 ### Name: EASWAR R
 ### Register Number: 212223230053
 
-![image](https://github.com/user-attachments/assets/28adce36-94c9-4811-b914-38c2fbe2c4b5)
-
+![ex 6 1](https://github.com/user-attachments/assets/1b245e68-046e-4cde-ba71-f755ec99577b)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
